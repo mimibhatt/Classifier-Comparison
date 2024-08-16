@@ -1,5 +1,6 @@
 # Data driven insight into Bank Marketing using different classifiers
-Comparing performance of different classifier models to predict if the client will subscribe a bank term deposit after the campaign
+Comparing performance of different classifier models to predict if the client will subscribe a bank term deposit after the campaign.
+Jupiter notebook with code, experimentation, implementation is located [here]((https://github.com/mimibhatt/Classifier-Comparison/blob/main/Practical_Application_3_Final.ipynb)
 
 # Business Goals
 Banks conduct several marketing campaigns to get customers to sign up for various bank programs. The goal of this analysis is to predict which customers will subsribe to the bank term deposit after the campaign, based on various financial, campaign related and other demographic features.
